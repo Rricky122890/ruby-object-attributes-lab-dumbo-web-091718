@@ -1,7 +1,7 @@
 class Dog
   
   def initialize (name)
-    @name = name 
+   puts @name = name 
   end 
   
   def name
