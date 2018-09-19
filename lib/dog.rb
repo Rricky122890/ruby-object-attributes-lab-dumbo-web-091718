@@ -1,15 +1,15 @@
 class Dog
   
   def initialize (name)
-   puts @name = name 
+   @name = name 
   end 
   
   def name
-    puts @name 
+    @name 
   end
   
   def name=(new_name)
-    puts @new_name = new_name 
+    @new_name = new_name 
   end
   
 end
